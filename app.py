@@ -1,4 +1,4 @@
-from credentials import production, staging
+from credentials import production
 import credlib
 
 
